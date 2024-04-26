@@ -10,6 +10,8 @@ Tabela de conteúdos
    * [Funções](https://github.com/LucianoSabino/Capacitacao-js_RecodeJr/blob/main/partes-do-codigo/Funcao-if-else.js)
    * [Loop](https://github.com/LucianoSabino/Capacitacao-js_RecodeJr/blob/main/partes-do-codigo/loop.js)
 <!--te-->
+
+* [Video aula](https://youtu.be/mSQOs1BCqn0)
 <h4 align="center"> 
 	🚧  JavaScript 🚀 Finalizado...  🚧
 </h4>
