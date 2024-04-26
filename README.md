@@ -4,11 +4,11 @@
 Tabela de conteúdos
 =================
 <!--ts-->
-   * [TiposVariáveis](https://github.com/LucianoSabino/Capacitacao-js_RecodeJr/blob/main/partes-do-codigo/TipoVariaveis.js)
-   *[Objeto-Array](https://github.com/LucianoSabino/Capacitacao-js_RecodeJr/blob/main/partes-do-codigo/Objeto-Array.js)
+   * [TiposVariáveis](https://github.com/LucianoSabino/Capacitacao-js_RecodeJr/blob/main/partes-do-codigo/TiposVariaveis.js)
+   * [Objeto-Array](https://github.com/LucianoSabino/Capacitacao-js_RecodeJr/blob/main/partes-do-codigo/objeto-array.js)
    * [Manipulação do DOM](https://github.com/LucianoSabino/Capacitacao-js_RecodeJr/blob/main/partes-do-codigo/ManipulacaoDOM.js)
    * [Funções](https://github.com/LucianoSabino/Capacitacao-js_RecodeJr/blob/main/partes-do-codigo/Funcao-if-else.js)
-   * [Loop](https://github.com/LucianoSabino/Capacitacao-js_RecodeJr/blob/main/partes-do-codigo/Loop.js)
+   * [Loop](https://github.com/LucianoSabino/Capacitacao-js_RecodeJr/blob/main/partes-do-codigo/loop.js)
 <!--te-->
 <h4 align="center"> 
 	🚧  JavaScript 🚀 Finalizado...  🚧
