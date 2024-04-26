@@ -5,7 +5,7 @@ Tabela de conteúdos
 =================
 <!--ts-->
    * [TiposVariáveis](https://github.com/LucianoSabino/Capacitacao-js_RecodeJr/blob/main/partes-do-codigo/TipoVariaveis.js)
-    * [TiposVariáveis](https://github.com/LucianoSabino/Capacitacao-js_RecodeJr/blob/main/partes-do-codigo/Objeto-Array.js)
+   *[Objeto-Array](https://github.com/LucianoSabino/Capacitacao-js_RecodeJr/blob/main/partes-do-codigo/Objeto-Array.js)
    * [Manipulação do DOM](https://github.com/LucianoSabino/Capacitacao-js_RecodeJr/blob/main/partes-do-codigo/ManipulacaoDOM.js)
    * [Funções](https://github.com/LucianoSabino/Capacitacao-js_RecodeJr/blob/main/partes-do-codigo/Funcao-if-else.js)
    * [Loop](https://github.com/LucianoSabino/Capacitacao-js_RecodeJr/blob/main/partes-do-codigo/Loop.js)
