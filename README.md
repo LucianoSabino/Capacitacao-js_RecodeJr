@@ -1,5 +1,5 @@
 # Capacitação de Js
-## Capacitação de Javascript para os treenis da empresa junior <a href="https://recodejr.com">🔗 React</a>
+## Capacitação de Javascript para os traineens da empresa junior <a href="https://recodejr.com">🔗 Recode Jr</a>
 
 Tabela de conteúdos
 =================
