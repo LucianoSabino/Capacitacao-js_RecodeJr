@@ -1,5 +1,5 @@
 # Capacitação de Js
-## Capacitação de Javascript para os treenis da empresa junior <a href="https://recodejr.com">🔗 React</a>
+## Capacitação de Javascript para os traineens da empresa junior <a href="https://recodejr.com">🔗 Recode Jr</a>
 
 Tabela de conteúdos
 =================
@@ -10,7 +10,7 @@ Tabela de conteúdos
    * [Funções](https://github.com/LucianoSabino/Capacitacao-js_RecodeJr/blob/main/partes-do-codigo/Funcao-if-else.js)
    * [Loop](https://github.com/LucianoSabino/Capacitacao-js_RecodeJr/blob/main/partes-do-codigo/loop.js)
 <!--te-->
-
+* [Codigo no mini projeto](https://github.com/LucianoSabino/Capacitacao-js_RecodeJr/tree/main/src)
 * [Video aula](https://youtu.be/mSQOs1BCqn0)
 <h4 align="center"> 
 	🚧  JavaScript 🚀 Finalizado...  🚧
