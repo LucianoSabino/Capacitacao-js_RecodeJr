@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+body{
+    font-size: 20px;
+}
+p {
+    color: red;
+}
+
+.classe {
+   top: -30px;
+}
+
+.imagemtrem{
+    position: absolute;
+    z-index: 0;
+    width: 100%;
+    height: 100%;
+}
+.caixa{
+    background-color: rgba(139, 139, 139, 0.6);
+    backdrop-filter: blur(9px);
+    position: relative;
+    margin: 0 auto;
+    top: 60px;
+    padding: 5px;
+    border-radius: 15px;
+    width: 720px;
+    height: 620px;
+}
+.caixainputs{
+    width: 600px;
+    height: 520px;
+    margin: 0 auto;
+    position: relative;
+    display: block;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    position: relative;
+    /* top: 50px; */
+    width: 400px;
+    height: 50px;
+    margin: 10px;
+    padding: 0 0 0 10px;
+    border: 3px solid rgba(0, 0, 0, 0.805);
+    border-radius: 10px;
+    outline-color: rgb(155,0,0);
+    transition: 2s;
+}
+input:hover{
+    border: 3px solid rgb(255, 196, 0);
+    transition: 2s;
+}
+
+::placeholder{
+    color: rgb(136, 136, 136);
+}
+
+input[type="checkbox"]{
+    width: 25px;
+    position: relative;
+    top: 20px;
+    margin: 10px;
+    accent-color: rgb(155, 0, 0);
+}
+
+label{
+    color: #fff;
+    font-size: 1rem;
+    position: relative;
+    top: 10px;
+    float: left;    
+    left: 85px;
+}
+
+button{
+    position: relative;
+    top: 90px;
+    right: 120px;
+    background-color: rgb(155, 0, 0);
+    color: #fff;
+    width: 300px;
+    height: 60px;
+    border: white 3px solid;
+    border-radius: 20px;
+    transition: 1s;
+    font-size: 1.1rem;
+}
+button:hover{
+    background-color: rgb(255, 196, 0);
+    color: rgb(0, 0, 0);
+    border-color: rgb(0, 0, 0);
+    cursor: pointer;
+}
+
+#y {
+    top: 110px;
+    right: 90px;
+}
+
+#t {
+    margin-left: 100px;
+    padding: 10px;
+}
+
+a{
+    position: relative;
+    font-size: 1rem;
+    float: left;
+    color: #024c8d;
+}
+
+h2{
+    color: rgb(155, 0, 0);
+    text-align: center;
+    font-size: 2.3rem;
+    background-color: #fff;
+    width: 100%;
+    border-radius: 100%;
+}
+h3{
+    color: rgb(255, 196, 0);
+    margin-top: 20px;
+    text-align: center;
+}
+
+ul {
+    margin-left: 30px;
+    list-style: none;
+}
+
+/* Pagina de cadastro */
+
+#tttt {
+    left: 1px;
+}
